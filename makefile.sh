@@ -1,0 +1,1 @@
+g++ -std=c++11 -I ./library/eigen-3.4.0 NN.cpp -o NN
