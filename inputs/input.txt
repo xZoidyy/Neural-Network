@@ -1,0 +1,9 @@
+# INPUTS
+10 		# INPUT SIZE ((1, x1, x2) -> also with 1 as bias)
+20 10		# NUMBER OF NEURONS (also define number of layers as (5, 5))
+1		# OUTPUT SIZE (for one clasification problem)
+0.01		# LEARNING RATE 
+0.001		# Initial alpha value for calculation alpha and for Hessian computation
+0.001		# NUM of Error function where is learning stop (usually not used)
+1           	# 0 - training NN on data / 1 - predict with new data (needs pretrained weights.txt)
+
